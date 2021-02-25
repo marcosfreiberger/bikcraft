@@ -2,7 +2,7 @@
 
 Para visualizar o projeto acesse: https://marcosfreiberger.github.io/bikcraft/
 
-## 📖 About
+## 📖 Sobre
 <p>Site bikcraft desenvolvido no curso de Web Design Completo - Origamid.</p>
 
 ---
